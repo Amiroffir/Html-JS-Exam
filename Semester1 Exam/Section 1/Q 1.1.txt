@@ -1,0 +1,2 @@
+Question 1.1 answer: To set how items are placed in the flex container.
+By the main axis (row or column).
